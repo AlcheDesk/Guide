@@ -1,19 +1,18 @@
-#Guide
+# Design Concept
 
-##Design Concept
+# Configuration
 
-##Configuration
+-   ## Global
 
-###Global
+-   ## ATM
 
-###ATM
+-   ## EMS
 
-###EMS
+-   ## VMC
 
-###VMC
+# User Manual
 
-##User Manual
+The user manual is on the GitBook now, and please check it out by the
+following link.
 
-The user manual is on the gitbook now, please chek it out by the following link.
-
-[AlcheDesk User Manual](https://alchedesk.gitbook.io/user-manual/ "AlcheDesk User Manual")
+[AlcheDesk User Manual](https://alchedesk.gitbook.io/user-manual/)
