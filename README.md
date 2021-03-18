@@ -1,5 +1,7 @@
 # Design Concept
-
+![](LittleBoy-ATM-EMS.PNG)
+![](EMS-VMC-ATM.PNG)
+![](VMC.PNG)
 # Configuration
 
 -   ## Global
