@@ -15,6 +15,7 @@ managing the VMC machines to execute test cases.
 
 SAMBA server store the screenshot from VMC. LittleBoy accesses those
 files to display on the UI.
+
 ![](LittleBoy-ATM-EMS.PNG)
 =============================================================================
 
@@ -24,6 +25,7 @@ VMC will send back the execution log to ESM with machine status. On the
 other hand, VMC also sends the step execution result of each test case
 back to ATM for real-time test case execution update. Screenshot from
 all execution will send from VMC directly to the Samba server.
+
 ![](EMS-VMC-ATM.PNG)
 =============================================================================
 
@@ -31,6 +33,7 @@ The VMC is using the OSGi framework underneath. Every OSGi bundle is a
 testing feature module, which can communicate with each other. This
 design allows developers to add a new testing feature by adding a new
 Bundle.
+
 ![](VMC.PNG)
 # 
 
